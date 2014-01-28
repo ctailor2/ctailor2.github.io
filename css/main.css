@@ -27,9 +27,14 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a {
+ 	color: #79A8BF;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
 
 /*****************************************************************************/
 /*
@@ -45,12 +50,25 @@ a:visited { color: #a0a; }
   line-height: 1.75em;
 }
 
-.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+#home h1 {
+	font-size: 18px;
+	color: #5D5D5D;
 }
 
+.post-date {
+	float: right;
+	color: #5D5D5D;
+}
+
+.post-title {
+	color: #79A8BF;
+	font-weight: 600;
+	font-size: 16px;
+}
+
+.post-title:hover {
+	text-decoration: underline;
+}
 /*****************************************************************************/
 /*
 /* Site
@@ -77,19 +95,19 @@ a:visited { color: #a0a; }
 
 .title a {
   color: #2B7EA6;
+	font-size: 36px;
 }
 
 .title a:hover {
-  color: #000;
+  color: #C1C1C1;
 }
 
 .meta {
-  color: #aaa;
+  color: #79A8BF;
+	font-size: 16px;
 }
 
 .footer {
-  font-size: 80%;
-  color: #666;
   border-top: 4px solid #FFC27C;
   margin-top: 2em;
   overflow: hidden;
@@ -99,18 +117,13 @@ a:visited { color: #a0a; }
   float: right;
 }
 
-.footer .contact a {
-  color: #8085C1;
-}
-
-.footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
 .footer .rss img {
   border: 0;
+}
+
+.site h2 {
+	color: #5D5D5D;
+	font-size: 18px;
 }
 
 .github-logo {
