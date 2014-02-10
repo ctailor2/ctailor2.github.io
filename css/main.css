@@ -147,6 +147,11 @@ a:hover {
 /*****************************************************************************/
 
 /* standard */
+
+.post {
+	color: #5D5D5D;
+}
+
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
