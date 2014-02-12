@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ponk"
+categories: india food
+---
+
+Whenever we make the trip to India, we always seem to come during ponk season which runs from November to February. Ponk is the name for a variety of green immature sorghum grains that are only found here in Surat.
+
+Today I tried 2 different preparations of the stuff. The first is how it's traditionally served - raw and topped with spicy seasoned sev (crunchy chickpea based noodles). The raw ponk is tender and chewy with a neutral flavor, creating a fun combination of texture and flavor against the crunchy sev. The next is a more portable form with a similar taste experience. The grains are mixed with a spicy chickpea batter and deep fried to make crunchy ponk balls.
+
+![Ponk]({{ site.url }}/assets/ponk.jpg)
