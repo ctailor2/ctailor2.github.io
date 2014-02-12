@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Pav Bhaji"
+categories: india food
+---
+
+This.
+
+![Pav Bhaji]({{ site.url }}/assets/pav-bhaji.jpg)
+
+I wish I had snagged a clearer picture so you could better see all the deliciousness contained in this plate, but I suppose a picture alone could never quite do it justice. "Pav Bhaji" translates literally as bread and vegetable stuff which is about as simple as it gets, but there's a lot of depth to each of these 2 parts that comes together to form a truly magical dish.
+
+The vegetables that make up the stuff in bhaji can vary from one recipe to the next, but the basic preparation consists of a mix of mashed potatoes, diced tomatoes, tomato sauce, chopped onions, chopped bell peppers, green peas, and garlic along with a full lineup of indian spices and loads of butter. The result is a tangy, spicy mash of an almost liquidy consistency with a smooth buttery texture. This was my first time trying it topped with cheese, which made the mash even creamier than it already was. The dish is also traditionally garnished with cilantro and red onions.
+
+The pav is a light and fluffy bun-like bread. It's covered on all sides with butter and toasted on a frying pan to create a light crust on the exterior, making the perfect vessel for transporting bhaji into your mouth.
+
