@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Eggs 5 Ways"
+categories: india food
+---
+
+I missed having Bhai Bhai's famous eggs during our last trip so I was glad that we planned for it earlier this time around. I had been hearing about how great these eggs are for 2+ years now.
+
+For some reason I was expecting some sort of enclosed, walk-in fast food joint, but I should have known better. It seems like some of the best food in town is from street carts and vendors that set up shop in the most unexpected places. This was no different.
+
+![Bhai Bhai]({{ site.url }}/assets/bhai-bhai.jpg)
+
+Their small sit-in area was completely packed but luckily they were able to retrieve a couple of benches and seat us outside along a short divider wall. There was hardly any lighting from the street so we propped up our phones and turned on their flashlights to provide some makeshift lighting.
+
+![Bhai Bhai Seating]({{ site.url }}/assets/bhai-bhai-seating.jpg)
+
+My cousin who frequents this place asked the host to take care of us so he went ahead and ordered us their most popular dishes. They began working on it within minutes, and one by one the dishes started coming hot off the fry pan. There were a number of different varieties, each with their own distinct taste. I tried to capture as much as I could but eventually I caved and just started digging in myself.
+
+![Cheesy Green Eggs]({{ site.url }}/assets/cheesy-green-eggs.jpg)
+![Orange Russo Eggs]({{ site.url }}/assets/orange-russo-eggs.jpg)
+![Eggs Assortment]({{ site.url }}/assets/eggs-assortment.jpg)
